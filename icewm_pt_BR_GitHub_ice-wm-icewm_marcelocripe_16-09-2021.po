@@ -2844,7 +2844,7 @@ msgstr "Não foi possível carregar a imagem \"%s\""
 #~ "stat:\tuser = %llu, nice = %llu, sys = %llu, idle = %llu, iowait = %llu, intr = %llu, "
 #~ "softirq = %llu, steal = %llu\n"
 #~ msgstr ""
-#~ "estado:\tusuário = %llu, bom = %llu, sistema = %llu, idle = %llu, iowait = %llu, intr "
+#~ "estatíticas:\tusuário = %llu, bom = %llu, sistema = %llu, idle = %llu, iowait = %llu, intr "
 #~ "= %llu, softirq = %llu, steal = %llu\n"
 
 #~ msgid ""
