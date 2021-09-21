@@ -3275,7 +3275,7 @@ msgstr "Não foi possível carregar a imagem \"%s\""
 #~ msgstr "%s - formato não é conhecido (%d)"
 
 #~ msgid "stat:\tuser = %i, nice = %i, sys = %i, idle = %i"
-#~ msgstr "estado:\tusuário = %i, bom = %i, sis = %i, inat = %i"
+#~ msgstr "estatísticas:\tusuário = %i, bom = %i, sis = %i, inat = %i"
 
 #~ msgid "bars:\tuser = %i, nice = %i, sys = %i (h = %i)\n"
 #~ msgstr "barras:\tusuário = %i, bom = %i, sis = %i (h = %i)\n"
