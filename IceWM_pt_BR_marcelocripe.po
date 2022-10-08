@@ -2927,7 +2927,7 @@ msgstr "Não foi possível carregar a imagem \"%s\"."
 
 #~ msgid "Invalid cursor pixmap: \"%s\" contains too much unique colors"
 #~ msgstr ""
-#~ "A imagem pixmap do cursor \"%s\" não é válida, contém muitas cores\n
+#~ "A imagem pixmap do cursor \"%s\" não é válida, contém muitas cores\n"
 #~ "singulares"
 
 #~ msgid ""
@@ -2945,7 +2945,9 @@ msgstr "Não foi possível carregar a imagem \"%s\"."
 #~ msgstr ""
 #~ "Barras:\tUsuário = %llu, Bom = %llu, Sistema = %llu, Ocioso = %llu, "
 #~ "intr = %llu, Interrupção de Dispositivos = %llu, Perdido = %llu (h = %i)"
+
 #~ msgid "CPU: %llu %llu %llu %llu %llu %llu %llu %llu"
+#~ msgstr "Processador: %llu %llu %llu %llu %llu %llu %llu %llu"
 
 #~ msgid ""
 #~ " IceWM crashed for the second time in 10 seconds. \n"
@@ -3052,7 +3054,7 @@ msgstr "Não foi possível carregar a imagem \"%s\"."
 #~ "                                     O padrão: $DISPLAY ou :0.0\n"
 #~ "                                     quando não for definido.\n"
 #~ " -w, -window ID_JANELA               Especifica a janela a ser\n"
-#~ "                                     manipulada. Os identificadores\n
+#~ "                                     manipulada. Os identificadores\n"
 #~ "                                     especiais são: \n"
 #~ "                                     -`root': para a janela de\n"
 #~ "                                     administrador.\n"
@@ -3431,7 +3433,7 @@ msgstr "Não foi possível carregar a imagem \"%s\"."
 
 #~ msgid "stat:\tuser = %i, nice = %i, sys = %i, idle = %i"
 #~ msgstr "Estatíticas:\tUsuário = %i, Bom = %i, Sistema = %i, "
-#~ msgstr "Inatividade = %i"
+#~ "Inatividade = %i"
 
 #~ msgid "bars:\tuser = %i, nice = %i, sys = %i (h = %i)\n"
 #~ msgstr "Barras:\tUsuário = %i, Bom = %i, Sistema = %i (h = %i)\n"
